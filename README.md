@@ -1,5 +1,5 @@
 # 30hills_test
-Test  sa json podacima
+Test  sa json podacima --
 
 For the second round you are given a quick test project. The goal of this test is to create a method of examining a Social Network. You are given dataset (data.json) representing a group of people, in the form of a social graph. Each person listed has one or more connections to the group.
 
